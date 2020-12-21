@@ -13,7 +13,8 @@
     <arg value="ps"/>
 
     <!-- Include existing standards. -->
-    <rule ref="./vendor/drupal/coder/coder_sniffer"/>
+        <rule ref="./vendor/drupal/coder/coder_sniffer/Drupal"/>
+        <rule ref="./vendor/drupal/coder/coder_sniffer/DrupalPractice"/>
 
     <rule ref="Drupal"/>
     <rule ref="DrupalPractice">
