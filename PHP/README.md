@@ -1,4 +1,4 @@
-# Basic PHPCS configuration for use in Drupal projects.
+# Basic PHPCS configuration for use in PHP/Drupal projects.
 
 Coder 8.x will work on D9, D8 and D7 projects.  Coder package should not be installed for non-drupal projects and all references to it's rulesets should be removed from the `phpcs.xml.dist` file.
 
